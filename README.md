@@ -1,2 +1,2 @@
-# campus-managment-system-using-c-
+# campus-managment-system-using-C shar
 campus management system with GUI
